@@ -22,7 +22,7 @@ A passionate Frontend Developer focused on building clean, user-friendly digital
 
 ## 📊 GitHub Stats
 
-![Toyosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Toyosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=toyocodes\&show_icons=true)
 
 ---
 
