@@ -28,8 +28,7 @@ A passionate Frontend Developer focused on building clean, user-friendly digital
 
 ## 🔗 Connect with me
 
-* LinkedIn: (add your link here)
-  https://www.linkedin.com/in/toyosi-jadesimi/
+* LinkedIn: https://www.linkedin.com/in/toyosi-jadesimi/
 
 ---
 
