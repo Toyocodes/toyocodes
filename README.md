@@ -1,11 +1,13 @@
 # Hi 👋 I'm Toyosi
 
-A passionate Frontend Developer focused on building clean, user-friendly digital products.
+**👨‍💻 About Me**
 
-* 🌱 Currently improving my skills in **React, Next.js, and Fullstack development**
-* 💻 I enjoy building real-world applications and solving practical problems
-* 🚀 Open to **Frontend Developer roles (Junior → Mid-level)**
-* ⚡ Fun fact: Dollars upon dollars loading 💰😄
+💻 Frontend Developer with ~1.5 years experience
+⚛️ Strong in **React, Next.js, TypeScript, Tailwind CSS**
+🧠 Currently improving my **full-stack skills (Node.js)**
+🚀 Open to **Frontend roles (Junior → Mid-level)**
+💡 I enjoy building real-world products with clean UI and solid UX
+⚡ Fun fact: 
 
 ---
 
@@ -26,10 +28,23 @@ A passionate Frontend Developer focused on building clean, user-friendly digital
 
 ---
 
+🚀 Featured Project
+
+E-commerce Web Application
+🔗 [https://tmobilestore.vercel.app/]
+
+Full-stack app built with React, TypeScript, Redux Toolkit & Node.js
+Features: cart system, reviews, checkout, admin dashboard
+Includes product management, order tracking, and analytics
+
+---
+
 ## 🔗 Connect with me
 
 * LinkedIn: https://www.linkedin.com/in/toyosi-jadesimi/
 
 ---
+
+<img src="https://readme-typing-svg.herokuapp.com?...">
 
 ✨ Thanks for visiting my profile!
