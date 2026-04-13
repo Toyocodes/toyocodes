@@ -7,7 +7,7 @@
 🧠 Currently improving my **full-stack skills (Node.js)**  
 🚀 Open to **Frontend roles (Junior → Mid-level)**  
 💡 I enjoy building real-world products with clean UI and solid UX  
-⚡ Fun fact: Dollars upon dollars loading 😄  
+⚡ Fun fact: I learn new tools quickly when building real projects
 
 ---
 
@@ -44,7 +44,5 @@ Includes product management, order tracking, and analytics
 * LinkedIn: https://www.linkedin.com/in/toyosi-jadesimi/
 
 ---
-
-<img src="https://readme-typing-svg.herokuapp.com?...">
 
 ✨ Thanks for visiting my profile!
