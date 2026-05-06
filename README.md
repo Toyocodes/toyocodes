@@ -28,17 +28,6 @@
 
 ---
 
-🚀 Featured Project
-
-E-commerce Web Application
-🔗 [https://tmobilestore.vercel.app/]
-
-Full-stack app built with React, TypeScript, Redux Toolkit & Node.js
-Features: cart system, reviews, checkout, admin dashboard
-Includes product management, order tracking, and analytics
-
----
-
 ## 🔗 Connect with me
 
 * LinkedIn: https://www.linkedin.com/in/toyosi-jadesimi/
