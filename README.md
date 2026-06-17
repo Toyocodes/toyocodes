@@ -2,7 +2,7 @@
 
 **👨‍💻 About Me**
 
-💻 Frontend Developer with ~1.5 years experience  
+💻 Frontend Developer with 2 years experience  
 ⚛️ Strong in **React, Next.js, TypeScript, Tailwind CSS**  
 🚀 Open to **Frontend roles (Junior → Mid-level)**  
 💡 I enjoy building real-world products with clean UI and solid UX  
