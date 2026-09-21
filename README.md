@@ -2,11 +2,13 @@
 
 **👨‍💻 About Me**
 
-💻 Frontend Developer with 2 years experience  
+💻 Frontend Engineer with 2 years experience  
 ⚛️ Strong in **React, Next.js, TypeScript, Tailwind CSS**  
-🚀 Open to **Frontend roles (Junior → Mid-level)**  
-💡 I enjoy building real-world products with clean UI and solid UX  
-⚡ Fun fact: I learn new tools quickly when building real projects
+🚀 Open to **Frontend Engineering roles (Junior and Mid-level roles)**  
+⚙️ Actively expanding into backend development with Node.js, Express, and Databases (SQL/NoSQL)
+🚀 Open to Frontend & Junior Fullstack roles
+💡 I enjoy building complete, real-world products with clean UI and solid UX
+⚡ Fun fact: I master backend tools rapidly by building and shipping live projects without supervision
 
 ---
 
