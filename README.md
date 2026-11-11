@@ -2,8 +2,8 @@
 
 **👨‍💻 About Me**
 
-💻 Fullstack Engineer (Frontend Heavy) with 2 years experience  
-⚛️ Strong in **React, Next.js, TypeScript, Tailwind CSS, Shadcn**  
+💻 Fullstack Engineer (Frontend Heavy) with almost 3 years experience  
+⚛️ Strong in **React, Next.js, TypeScript, Tailwind CSS, Shadcn, Prisma, Node.js, Express.js**  
 🚀 Open to **Frontend Engineering roles (Mid-level and Senior roles)**  
 ⚙️ Actively expanding into backend development with Node.js, Express, and Databases (SQL/NoSQL)
 🚀 Open to Frontend & Junior Fullstack roles
